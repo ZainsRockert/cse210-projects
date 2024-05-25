@@ -1,0 +1,4 @@
+50
+Simple Goal:; Study English; Study English Every Day For 10 Min; 50; True
+Eternal Goal:; Go To The Temple ; Go To The Temple 1 Time For Month; 100; False
+Check List Goal:; Study Idaho; Complete My Works Every Week; 400; False; 6; 500; 0
