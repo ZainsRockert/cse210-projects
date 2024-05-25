@@ -142,3 +142,7 @@ class Program
         }
     }
 }
+
+// I made some changes to the main menu
+// I added the goal category "Bad habit goal".
+// I added a different class because I thought it could help my program more.
